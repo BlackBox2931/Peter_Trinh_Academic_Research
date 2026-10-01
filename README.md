@@ -15,7 +15,7 @@ This repository contains selected academic research papers and technical project
 ### Advanced Internet Computing Systems and Applications
 
 - Internet Search Engines
-Amazon E-commerce
+- Amazon E-commerce
 - Instagram Search Capabilities
 - Blockchain
 - Youtube Artificial Intelligence Censorship
